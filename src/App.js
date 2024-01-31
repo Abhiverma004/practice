@@ -5,9 +5,9 @@ import Products from './components/Products';
 
 const App = () => {
   const products = [
-    {
+    { 
       id: 'p1',
-      title: 'Nirma',
+      title: 'Nirma Ji',
       amount: 100,
       date: new Date(2021, 8, 10),
     },
